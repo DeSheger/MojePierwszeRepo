@@ -16,3 +16,7 @@ Przejdż do skolonowanego repozytorium a następnie:
 > npm install
 > npm run dev
 ```
+# Wymagania
+
+Node.js 16=<
+
