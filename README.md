@@ -12,7 +12,7 @@ Sklonuj repozytorium
 Przejdż do skolonowanego repozytorium a następnie:
 
 ```bash
-> cd <your-project-name>
+> cd vue-client
 > npm install
 > npm run dev
 ```
